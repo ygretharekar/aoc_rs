@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 rust-crypto = "^0.2"
+fancy-regex = "0.1.0"
